@@ -51,12 +51,11 @@
 class AyanChatterjee:
     role        = "Full-Stack & Analytics Engineer"
     location    = "India 🇮🇳"
-    stack       = ["Python", "Django", "FastAPI", "React", "AWS", "Docker",
-                   "PostgreSQL", "MongoDB", "Redis", "LLMs", "Vector DBs"]
-    currently   = "Building scalable AI-powered backends & data-rich dashboards"
-    learning    = ["Advanced System Design", "Prompt Engineering", "RAG Pipelines"]
-    ask_me      = ["REST APIs", "LLM Integration", "Database Optimization",
-                   "Cloud Architecture", "React Performance"]
+    languages   = ["HTML", "CSS", "JavaScript", "TypeScript", "Python", "Go", "Java", "SQL", "PL/SQL", "Bash"]
+    frameworks  = ["ReactJs", "Redux", "Spring Boot", "Bootstrap", "MUI", "Scikit-learn"]
+    currently   = "Building scalable web apps & data-rich dashboards"
+    learning    = ["ML algorithms", "Prompt Engineering", "Advanced Excel"]
+    ask_me      = ["REST APIs", "Query languages", "Programming languages", "Data analysis", "React Performance"]
     fun_fact    = "I treat every pull request like a product launch 🚀"
 ```
 
