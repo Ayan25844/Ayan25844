@@ -128,7 +128,8 @@ class AyanChatterjee:
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Ayan25844/Ayan25844/main/CACHE/trophy.svg" alt="GitHub Trophies"/>
+<!-- Change trophy.svg to trophies.svg -->
+<img src="https://raw.githubusercontent.com/Ayan25844/Ayan25844/main/CACHE/trophies.svg" alt="GitHub Trophies"/>
 
 </div>
 
