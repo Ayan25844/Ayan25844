@@ -162,8 +162,7 @@ class AyanChatterjee:
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://portfolio-six-sandy-je60vwpbmb.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/View%20My%20Portfolio-%236C63FF.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<a href="https://portfolio-six-sandy-je60vwpbmb.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/View%20My%20Portfolio-%236C63FF.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:ayan25844@gmail.com" target="_blank">
