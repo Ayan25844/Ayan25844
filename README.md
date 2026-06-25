@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://portfolio-six-sandy-je60vwpbmb.vercel.app/" target="_blank"><img src="https://img.shields.io/badgePortfolio-%236C63FF.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://portfolio-six-sandy-je60vwpbmb.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%236C63FF.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 &nbsp;
 <a href="mailto:ayan25844@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
