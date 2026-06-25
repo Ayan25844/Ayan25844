@@ -2,8 +2,12 @@ name: Update Trophies
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Automatically updates every night at midnight
-  workflow_dispatch: # Allows you to run it manually right away
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+# 🟢 ADD THIS BLOCK TO GRANT WRITE PERMISSIONS:
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -18,8 +22,6 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           username: Ayan25844
           theme: tokyonight
-          # Optional: You can explicitly set where it saves, though it defaults to the root or a cache folder.
-          # output_path: CACHE
 
       - name: Commit and Push Changes
         run: |
