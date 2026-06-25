@@ -128,7 +128,7 @@ class AyanChatterjee:
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ayan25844&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
+<img src="https://raw.githubusercontent.com/Ayan25844/Ayan25844/main/CACHE/trophy.svg" alt="GitHub Trophies"/>
 
 </div>
 
