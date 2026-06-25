@@ -60,10 +60,10 @@ class AyanChatterjee:
 <td width="50%" valign="top">
 
 ### 🔭 Currently Working On
-- 🏗️ &nbsp;Production-grade **FastAPI + LLM** microservices
-- 📊 &nbsp;Real-time analytics dashboards with **React + PostgreSQL**
-- 🤖 &nbsp;Experimenting with **RAG pipelines** & **Vector DBs**
-- ☁️ &nbsp;Deploying resilient stacks on **AWS ECS + Docker**
+- 🏎️ &nbsp;Optimizing enterprise automotive systems using **Go (Golang)**, **React.js**, and **TypeScript**[cite: 2]
+- 📊 &nbsp;Engineering real-time dashboards with **TanStack Query**, multi-parameter SQL backend filters, and **PostgreSQL**
+- 🧱 &nbsp;Refactoring legacy configurations to high-throughput architectures using custom state validation schemas (**Formik + Yup**)
+- 📈 &nbsp;Developing data pipelines and granular behavioral analytics frameworks using **Python (Pandas & NumPy)**
 
 </td>
 <td width="50%" valign="top">
