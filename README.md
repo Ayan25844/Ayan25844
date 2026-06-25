@@ -158,9 +158,7 @@ class AyanChatterjee:
 
 <br/>
 
-<a href="https://www.linkedin.com/in/ayan-chatterjee2002/" target="_blank">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<a href="https://www.linkedin.com/in/ayan-chatterjee2002/" target="_blank"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 &nbsp;&nbsp;
 <a href="https://portfolio-six-sandy-je60vwpbmb.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/View%20My%20Portfolio-%236C63FF.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 &nbsp;&nbsp;
