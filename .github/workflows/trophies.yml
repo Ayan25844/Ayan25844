@@ -10,18 +10,25 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Upgraded to v4 to fix the Node.js deprecation warning
 
       - name: Generate Trophies SVG
         uses: ryo-ma/github-profile-trophy@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          options: '&theme=tokyonight&no-frame=true&no-bg=true&column=7'
+          # Pass the arguments individually instead of inside an 'options' string:
+          username: Ayan25844
+          theme: tokyonight
+          no-frame: true
+          no-bg: true
+          column: 7
 
       - name: Commit and Push Changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add CACHE/
+          # The action automatically creates a directory named "treasure" or saves it locally.
+          # Let's add everything to be safe so git can track it.
+          git add .
           git diff --quiet && git diff --staged --quiet || git commit -m "Updated profile trophies"
           git push
