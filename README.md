@@ -69,10 +69,10 @@ class AyanChatterjee:
 <td width="50%" valign="top">
 
 ### 🌱 Currently Learning
-- 🧩 &nbsp;**Advanced System Design** patterns at scale
-- 🔮 &nbsp;**Prompt Engineering** & LLM fine-tuning strategies
-- 📐 &nbsp;**Data Modeling** for high-throughput applications
-- 🛡️ &nbsp;**API Security** & zero-trust architecture
+- 🧩 &nbsp;**Advanced System Design** and distributed patterns for high-throughput backends
+- 🔮 &nbsp;**LLM Engineering** and integrating intelligent orchestration with production pipelines
+- 📊 &nbsp;**Advanced Data Modeling** and predictive analytics scaling with Python data stacks
+- 🗺️ &nbsp;**Enterprise Internationalization (i18n)** and cross-border data compliance strategies
 
 </td>
 </tr>
