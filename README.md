@@ -20,7 +20,8 @@
 <a href="https://github.com/Ayan25844" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/ayan-chatterjee2002/">
+&nbsp;
+<a href="https://www.linkedin.com/in/ayan-chatterjee2002/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
