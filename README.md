@@ -17,16 +17,16 @@
 <br/>
 
 <!-- ── Social Icons ── -->
-<a href="https://github.com/Ayan25844" target="blank">
+<a href="https://github.com/Ayan25844">
   <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/ayan-chatterjee2002/" target="blank">
+<a href="https://www.linkedin.com/in/ayan-chatterjee2002/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://portfolio-six-sandy-je60vwpbmb.vercel.app/" target="blank">
+<a href="https://portfolio-six-sandy-je60vwpbmb.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-%236C63FF.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="mailto:ayan25844@gmail.com" target="blank">
+<a href="mailto:ayan25844@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
