@@ -60,7 +60,7 @@ class AyanChatterjee:
 <td width="50%" valign="top">
 
 ### 🔭 Currently Working On
-- 🏎️ &nbsp;Optimizing enterprise automotive systems using **Go (Golang)**, **React.js**, and **TypeScript**[cite: 2]
+- 🏎️ &nbsp;Optimizing enterprise automotive systems using **Go (Golang)**, **React.js**, and **TypeScript**
 - 📊 &nbsp;Engineering real-time dashboards with **TanStack Query**, multi-parameter SQL backend filters, and **PostgreSQL**
 - 🧱 &nbsp;Refactoring legacy configurations to high-throughput architectures using custom state validation schemas (**Formik + Yup**)
 - 📈 &nbsp;Developing data pipelines and granular behavioral analytics frameworks using **Python (Pandas & NumPy)**
