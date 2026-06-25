@@ -89,27 +89,23 @@ class AyanChatterjee:
 <div align="center">
 
 ### ⚙️ Backend Development
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,nodejs&theme=dark" alt="Backend Skills"/>
+<img src="https://skillicons.dev/icons?i=go,spring,java,python,flask&theme=dark" alt="Backend Skills"/>
 
 ### 🎨 Frontend Development
-<img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,tailwind&theme=dark" alt="Frontend Skills"/>
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,bootstrap&theme=dark" alt="Frontend Skills"/>
 
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,linux,git&theme=dark" alt="Cloud & DevOps Skills"/>
+### 🗄️ Database Management
+<img src="https://skillicons.dev/icons?i=postgres,mysql,oracle&theme=dark" alt="Database Skills"/>
 
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,sqlite&theme=dark" alt="Database Skills"/>
-
-### 🤖 AI / ML & Data
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="AI/ML Skills"/>
+### 📊 Data Analytics & BI
+<img src="https://skillicons.dev/icons?i=python,sklearn,github&theme=dark" alt="Data Analytics Skills"/>
 &nbsp;
-<img src="https://img.shields.io/badge/LLMs-%236C63FF.svg?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-%2300BCD4.svg?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
-<img src="https://img.shields.io/badge/Vector%20DBs-%23FF6B6B.svg?style=for-the-badge&logo=pinecone&logoColor=white" alt="Vector DBs"/>
-<img src="https://img.shields.io/badge/RAG%20Pipelines-%234CAF50.svg?style=for-the-badge&logo=langchain&logoColor=white" alt="RAG"/>
+<img src="https://img.shields.io/badge/Advanced%20Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Advanced Excel"/>
+<img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 
-### 🧰 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=vscode,github,postman,figma,vercel&theme=dark" alt="Tools"/>
+### 🧰 Developer Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" alt="Tools"/>
 
 </div>
 
