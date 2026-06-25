@@ -45,11 +45,11 @@
 class AyanChatterjee:
     role        = "Full-Stack & Analytics Engineer"
     location    = "India 🇮🇳"
-    languages   = ["HTML", "CSS", "JavaScript", "TypeScript", "Python", "Go", "Java", "SQL", "PL/SQL", "Bash"]
-    frameworks  = ["ReactJs", "Redux", "Spring Boot", "Bootstrap", "MUI", "Scikit-learn"]
-    currently   = "Building scalable web apps & data-rich dashboards"
+    languages   = ["JavaScript", "TypeScript", "Go (Golang)", "Python", "Java", "SQL", "PL/SQL", "HTML", "CSS", "Bash"]
+    frameworks  = ["React.js", "Redux", "Spring Boot", "Material UI (MUI)", "TanStack Query", "Bootstrap", "Scikit-learn"]
+    currently   = "Developing enterprise automotive applications and real-time analytics dashboards"
     learning    = ["ML algorithms", "Prompt Engineering", "Advanced Excel"]
-    ask_me      = ["REST APIs", "Query languages", "Programming languages", "Data analysis", "React Performance"]
+    ask_me      = ["REST API Design", "Backend Architecture", "State Management & Form Validation", "Data Analytics & EDA"]
     fun_fact    = "I treat every pull request like a product launch 🚀"
 ```
 
